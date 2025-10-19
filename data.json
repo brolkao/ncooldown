@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:item",
+  "minecraft:icon": "minecraft:your_item_icon",
+  "minecraft:cooldown": 0,
+  "minecraft:use_duration": 0,
+  "minecraft:use_animation": "none",
+  "minecraft:interactions": [
+    {
+      "type": "minecraft:use_item",
+      "cooldown": 0
+    }
+  ]
+}
